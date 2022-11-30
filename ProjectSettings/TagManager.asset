@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerShip
+  - PlayerProjectileHolder
+  - Projectile
+  - Enemy
+  - EnemyProjectileHolder
+  - Collectable
+  - Meteor
+  - MovePoint
+  - PlayerHealth
+  - EnemiesDestroyedInfo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - EnemyProjectile
+  - PlayerProjectile
+  - Enemy
+  - Player
+  - PlayerBounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 3922172885
+    locked: 0
+  - name: Meteor
+    uniqueID: 1155357355
+    locked: 0
+  - name: Player
+    uniqueID: 2906293871
+    locked: 0
+  - name: Health
+    uniqueID: 3731636447
+    locked: 0
+  - name: PickUp
+    uniqueID: 1254635375
+    locked: 0
